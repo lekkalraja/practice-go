@@ -12,6 +12,7 @@ func main() {
 	dobTime, _ := time.Parse(shortForm, dob)
 	fmt.Printf("Year : %d  (%s)\n", dobTime.Year(), dobTime.String())
 	fmt.Printf("Age : %d \n", time.Now().Year()-dobTime.Year())
+	fmt.Printf("Age : %d \n", time.Now().Sub(dobTime))
 }
 
 /*
