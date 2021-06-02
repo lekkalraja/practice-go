@@ -6,3 +6,4 @@
 
 
 * `Go By Examples` : https://gobyexample.com/
+* `Go Blogs` : https://blog.golang.org/
