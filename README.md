@@ -1,6 +1,6 @@
 ### Practice - Go
 
-
+* `Learn GO` : https://golangr.com/
 * `Exercises` : https://golangr.com/exercises/
 * `Answers for the above Exercies ` : https://golangr.com/download-answers/
 
